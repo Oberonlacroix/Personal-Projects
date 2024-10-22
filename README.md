@@ -1,8 +1,8 @@
 A few projects to demonstrate Python ability:
 
-NBA_Statistics - Web scraping and data visualization
-fitness_protocol - Object Oriented Programming
-exercise_generator - Procedural Programming
+NBA_Statistics - Web scraping and data visualization.
+fitness_protocol - Object Oriented Programming.
+exercise_generator - Procedural Programming.
 
 Work to be done:
   - Improved error handling
