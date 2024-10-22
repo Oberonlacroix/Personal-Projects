@@ -10,5 +10,6 @@ Work to be done:
   - Add lists/dicts of class instances
   - Accomodate for longer training programmes
   - Build in a schedule for Trainer to have multiple clients
+  - Unit testing
 
 
