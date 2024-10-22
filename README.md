@@ -7,9 +7,8 @@ A few projects to demonstrate Python ability:
 Work to be done:
   - Improved error handling
   - Adding Further complexity to training programme functions
-  - Add lists/dicts of class instances
+  - Add lists/dicts to store class instances
   - Accomodate for longer training programmes
-  - Build in a schedule for Trainer to have multiple clients
   - Unit testing
 
 
