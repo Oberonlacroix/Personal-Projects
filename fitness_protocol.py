@@ -16,13 +16,6 @@ class Trainer:
     """
 
     def __init__(self, name, fee):
-        """
-        Initializes a Trainer instance.
-
-        Parameters:
-            name (str): The name of the trainer.
-            fee (int): The fee charged per session.
-        """
         self.name = name
         self.fee = fee
 
